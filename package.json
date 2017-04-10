@@ -1,0 +1,22 @@
+{
+  "name": "jroll-pulldown",
+  "version": "1.0.0",
+  "description": "JRoll的下拉刷新扩展",
+  "main": "jroll-pulldown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chjtx/JRoll-Pulldown.git"
+  },
+  "keywords": [
+    "jroll-pulldown"
+  ],
+  "author": "BarZu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chjtx/JRoll-Pulldown/issues"
+  },
+  "homepage": "https://github.com/chjtx/JRoll-Pulldown#readme"
+}
